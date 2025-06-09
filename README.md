@@ -1,11 +1,8 @@
-<h1 align="center">Hola 👋, soy [Tu Nombre o Alias]</h1>
-<h3 align="center">GIS Developer | Web Developer | Python Enthusiast | Security Curious 🛰️</h3>
-
+<h1 align="center">Hola!👋, soy Fran</h1>
 ---
-
 ### 🌍 Sobre mí
 
-Soy un desarrollador enfocado en el desarrollo web con orientación geoespacial (GIS). Actualmente diseño visores cartográficos interactivos usando tecnologías como:
+Actualmente trabajo en desarrollo web enfocado al entorno geoespacial. Diseño visores cartográficos interactivos usando:
 
 - 🧭 **Leaflet**
 - 🖼️ **HTML, CSS y JavaScript**
@@ -19,7 +16,7 @@ También tengo experiencia usando **Python** para automatizar tareas dentro de p
 ### 💻 Tech Stack
 
 - 🌐 Web: `HTML`, `CSS`, `JavaScript`, `React`
-- 🗺️ GIS: `Leaflet`, `QGIS`, `PyQGIS`
+- 🗺️ GIS: `Leaflet`, `QGIS`, `PyQGIS`, `ArcGIS`
 - 🐍 Backend / Automatización: `Python`
 - 🐚 Terminal: `Linux`, `Bash`, `CMD`
 - 🛢️ Datos: `SQL`, `GeoJSON`, `PostgreSQL` *(en exploración)*
@@ -29,9 +26,9 @@ También tengo experiencia usando **Python** para automatizar tareas dentro de p
 
 ### 🚀 Proyectos destacados
 
-- 🌐 [Visor Cartográfico Interactivo](#) – Muestra de mapas dinámicos con Leaflet
-- 🐍 [Scripts de automatización en QGIS](#) – Automatización de tareas repetitivas en flujos GIS
-- 💻 [Webs estáticas + React](#) – Aplicaciones front con JS/React (en desarrollo)
+- 🌐 [Visor Cartográfico Interactivo](#) – 
+- 🐍 [Scripts de automatización en QGIS](#) – 
+- 💻 [Webs estáticas + React](#) –
 
 > *¿Quieres ver más? Echa un ojo a mis repos públicos 👇*
 
@@ -48,17 +45,17 @@ Actualmente sigo formándome en:
 
 ### 📫 Cómo contactarme
 
-- 🧑‍💼 [LinkedIn](https://linkedin.com/in/tuusuario) *(actualízalo con el tuyo)*
-- 🌐 [Portfolio](https://tusitio.dev) *(si lo tienes, lo metemos)*
-- ✉️ Email: tuemail@dominio.com
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/francisco-lastres-gomez/)]
+- 🌐 [Portfolio](https://franmaps.vercel.app/) *(si lo tienes, lo metemos)*
+- ✉️ Email: lastres.gomez@gmail.com
 
 ---
 
 ### 🎯 Curiosidades
 
 - 🐧 Me gusta trabajar desde la terminal
-- 🛰️ Me apasiona la combinación entre mapas, código y ciberseguridad
-- 💬 Me encanta aprender cosas nuevas y compartirlas
+- 🛰️ Me encanta representar información de forma interactiva en mapas digitales
+- 💬 Me gusta aprender cosas nuevas y compartirlas
 
 ---
 
