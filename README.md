@@ -1,5 +1,6 @@
-<h1 align="center">Hola!👋, soy Fran</h1>
+<h1 align="center">Hola! 👋, soy Fran</h1>
 ---
+
 ### 🌍 Sobre mí
 
 Actualmente trabajo en desarrollo web enfocado al entorno geoespacial. Diseño visores cartográficos interactivos usando:
@@ -26,10 +27,9 @@ También tengo experiencia usando **Python** para automatizar tareas dentro de p
 
 ### 🚀 Proyectos destacados
 
-- 🌐 [Visor Cartográfico Interactivo](#) – 
-- 🐍 [Scripts de automatización en QGIS](#) – 
-- 💻 Mi propia página web: ()(#) –
-- 💻 Mi propia página web: [https://franmaps.vercel.app/](#) –
+- 🌐 [Visor Cartográfico Interactivo](#) – (añade aquí descripción corta o link real)
+- 🐍 [Scripts de automatización en QGIS](#) – (añade descripción o link)
+- 💻 Mi propia página web: [https://franmaps.vercel.app/](https://franmaps.vercel.app/)
 
 > *¿Quieres ver más? Echa un ojo a mis repos públicos 👇*
 
@@ -38,6 +38,7 @@ También tengo experiencia usando **Python** para automatizar tareas dentro de p
 ### 📚 En constante aprendizaje
 
 Actualmente sigo formándome en:
+
 - Desarrollo GIS avanzado
 - React
 - Fundamentos de Ciberseguridad y Pentesting
@@ -47,8 +48,8 @@ Actualmente sigo formándome en:
 
 ### 📫 Cómo contactarme
 
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/francisco-lastres-gomez/)]
-- 🌐 [Portfolio](https://franmaps.vercel.app/) *(si lo tienes, lo metemos)*
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/francisco-lastres-gomez/)
+- 🌐 [Portfolio](https://franmaps.vercel.app/)
 - ✉️ Email: lastres.gomez@gmail.com
 
 ---
@@ -62,5 +63,5 @@ Actualmente sigo formándome en:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=95sFran&show_icons=true&theme=radical" alt="stats" />
 </p>
