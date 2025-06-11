@@ -28,7 +28,8 @@ También tengo experiencia usando **Python** para automatizar tareas dentro de p
 
 - 🌐 [Visor Cartográfico Interactivo](#) – 
 - 🐍 [Scripts de automatización en QGIS](#) – 
-- 💻 [Webs estáticas + React](#) –
+- 💻 Mi propia página web: ()(#) –
+- 💻 Mi propia página web: [https://franmaps.vercel.app/](#) –
 
 > *¿Quieres ver más? Echa un ojo a mis repos públicos 👇*
 
@@ -37,7 +38,8 @@ También tengo experiencia usando **Python** para automatizar tareas dentro de p
 ### 📚 En constante aprendizaje
 
 Actualmente sigo formándome en:
-- React avanzado
+- Desarrollo GIS avanzado
+- React
 - Fundamentos de Ciberseguridad y Pentesting
 - Buenas prácticas en desarrollo web profesional
 
