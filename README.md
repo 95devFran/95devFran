@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 👋, soy Fran</h1>
+<h1 align="center">👋 Hola! Soy Fran</h1>
 ---
 
 ### 🌍 Sobre mí
