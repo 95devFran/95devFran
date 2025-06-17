@@ -10,7 +10,7 @@ Actualmente trabajo en desarrollo web enfocado al entorno geoespacial. Diseño v
 - ⚛️ **React** (en proceso de aprendizaje y aplicación)
 - 🛠️ **Visual Studio Code** como entorno principal
 
-También tengo experiencia usando **Python** para automatizar tareas dentro de proyectos GIS, especialmente integrados en **QGIS**, con lo que optimizo flujos de trabajo y análisis espacial.
+También tengo experiencia usando **Python** para automatizar tareas dentro de proyectos GIS, especialmente integrados en **QGIS**, con lo que optimizo flujos de trabajo y procesos de análisis espacial.
 
 ---
 
