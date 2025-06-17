@@ -27,7 +27,7 @@ También tengo experiencia usando **Python** para automatizar tareas dentro de p
 
 ### 🚀 Proyectos destacados
 
-- 🐍 [Scripts de automatización en QGIS](#) – echa un vistazo a mi repo de PyQGIS-scripts 
+- 🐍 [Scripts de automatización en QGIS](https://github.com/95devFran/PyQGIS-Scripts) – echa un vistazo a mi repo de PyQGIS-scripts 
 - 💻 Mi propia página web: [https://franmaps.vercel.app/](https://franmaps.vercel.app/)
 
 > *¿Quieres ver más? Echa un ojo a mis repos públicos 👇*
