@@ -1,16 +1,16 @@
-<h1 align="center">👋 Hola! Soy Fran</h1>
+<h1 align="center">👋 Hi! I'm Fran</h1>
 ---
 
-### 🌍 Sobre mí
+### 🌍 About Me
 
-Actualmente trabajo en desarrollo web enfocado al entorno geoespacial. Diseño visores cartográficos interactivos usando:
+I currently work in web development focused on the geospatial environment. I design interactive map viewers using:
 
 - 🧭 **Leaflet**
-- 🖼️ **HTML, CSS y JavaScript**
-- ⚛️ **React** (en proceso de aprendizaje y aplicación)
-- 🛠️ **Visual Studio Code** como entorno principal
+- 🖼️ **HTML, CSS, and JavaScript**
+- ⚛️ **React** (in the process of learning and applying)
+- 🛠️ **Visual Studio Code** as my main environment
 
-También tengo experiencia usando **Python** para automatizar tareas dentro de proyectos GIS, especialmente integrados en **QGIS**, con lo que optimizo flujos de trabajo y procesos de análisis espacial.
+I also have experience using **Python** to automate tasks within GIS projects, especially integrated with **QGIS**, optimizing workflows and spatial analysis processes.
 
 ---
 
@@ -18,34 +18,34 @@ También tengo experiencia usando **Python** para automatizar tareas dentro de p
 
 - 🌐 Web: `HTML`, `CSS`, `JavaScript`, `React`
 - 🗺️ GIS: `Leaflet`, `QGIS`, `PyQGIS`, `ArcGIS`
-- 🐍 Backend / Automatización: `Python`
+- 🐍 Backend / Automation: `Python`
 - 🐚 Terminal: `Linux`, `Bash`, `CMD`
-- 🛢️ Datos: `SQL`, `GeoJSON`, `PostgreSQL` *(en exploración)*
-- 🔐 Seguridad: Estudiante autodidacta de `Ciberseguridad`, `Pentesting`, `Malware Analysis`
+- 🛢️ Data: `SQL`, `GeoJSON`, `PostgreSQL` *(exploring)*
+- 🔐 Security: Self-taught student of `Cybersecurity`, `Pentesting`, `Malware Analysis`
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Featured Projects
 
-- 🐍 [Scripts de automatización en QGIS](https://github.com/95devFran/PyQGIS-Scripts) – echa un vistazo a mi repo de PyQGIS-scripts 
-- 💻 Mi propia página web: [https://franmaps.vercel.app/](https://franmaps.vercel.app/)
+- 🐍 [Automation Scripts in QGIS](https://github.com/95devFran/PyQGIS-Scripts) – check out my PyQGIS-scripts repo
+- 💻 My personal website: [https://franmaps.vercel.app/](https://franmaps.vercel.app/)
 
-> *¿Quieres ver más? Echa un ojo a mis repos públicos 👇*
+> *Want to see more? Check out my public repos 👇*
 
 ---
 
-### 📚 En constante aprendizaje
+### 📚 Always Learning
 
-Actualmente sigo formándome en:
+I am currently improving my skills in:
 
-- Desarrollo GIS avanzado
+- Advanced GIS Development
 - React
-- Fundamentos de Ciberseguridad y Pentesting
-- Buenas prácticas en desarrollo web profesional
+- Fundamentals of Cybersecurity and Pentesting
+- Best practices in professional web development
 
 ---
 
-### 📫 Cómo contactarme
+### 📫 How to reach me
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/francisco-lastres-gomez/)
 - 🌐 [Portfolio](https://franmaps.vercel.app/)
@@ -53,11 +53,11 @@ Actualmente sigo formándome en:
 
 ---
 
-### 🎯 Curiosidades
+### 🎯 Fun Facts
 
-- 🐧 Me gusta trabajar desde la terminal
-- 🛰️ Me encanta representar información de forma interactiva en mapas digitales
-- 💬 Me gusta aprender cosas nuevas y compartirlas
+- 🐧 I like working from the terminal
+- 🛰️ I love representing information interactively on digital maps
+- 💬 I enjoy learning new things and sharing them
 
 ---
 
