@@ -8,6 +8,7 @@ I currently work in web development focused on the geospatial environment. I des
 - 🧭 **Leaflet**
 - 🖼️ **HTML, CSS, and JavaScript**
 - ⚛️ **React** (in the process of learning and applying)
+- 🖖 **Vue** (learning and experimenting)
 - 🛠️ **Visual Studio Code** as my main environment
 
 I also have experience using **Python** to automate tasks within GIS projects, especially integrated with **QGIS**, optimizing workflows and spatial analysis processes.
